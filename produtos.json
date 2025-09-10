@@ -1,0 +1,30 @@
+[
+    {   
+        "ID": 1,
+        "nome": "Caneta Esferográfica",
+        "estoque": 120,
+        "preco": 2.50,
+        "quantidade": 1
+    },
+    {
+        "ID": 2,
+        "nome": "Caderno Universitário",
+        "estoque": 60,
+        "preco": 15.90,
+        "quantidade": 1
+    },
+    {
+        "ID": 3,
+        "nome": "Lápis de Cor",
+        "estoque": 40,
+        "preco": 8.75,
+        "quantidade": 1
+    },
+    {
+        "ID": 4,
+        "nome": "Borracha Branca",
+        "estoque": 200,
+        "preco": 1.20,
+        "quantidade": 1
+    }
+]
